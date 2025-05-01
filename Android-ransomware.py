@@ -1,7 +1,7 @@
 ############################
 ############################
-token = "Token Bot"
-chat= "Chat id"
+token = "8036450472:AAF6Lb7LclbfEUxkjHNzD1FYYyLy_V-LmDM "
+chat= "1437101433"
 ############################
 ############################
 from os import system as SY
